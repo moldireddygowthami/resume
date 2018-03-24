@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"To establish myself in the field of fast growing TECHNICAL and CORPORATE world"
+  },
+  "education":[
+  {
+
+    "degree":"B.TECH(computer science of engineering)",
+    "college":"DR.KV.Subbareddy College Of Engineering For Women ",
+    "data":["2015-19","78%"]
+},
+  {
+    "degree":"STATE BOARD OF INTERMEDIATE EDUCATION",
+    "college":"CV.Raman Junior College ",
+    "data":["2013-15","94%"]
+  },
+  {
+    "degree":"SSC",
+    "college":"Little Hearts High School",
+    "data":["2012-13","85%"]
+  }
+]
+}
